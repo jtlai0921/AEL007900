@@ -1,0 +1,16 @@
+D:\cs2008\ch05\Poker\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch05\Poker\obj\Debug\Poker.Form1.resources
+D:\cs2008\ch05\Poker\obj\Debug\Poker.Properties.Resources.resources
+D:\cs2008\ch05\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache
+D:\cs2008\ch05\Poker\bin\Debug\Poker.exe
+D:\cs2008\ch05\Poker\bin\Debug\Poker.pdb
+D:\cs2008\ch05\Poker\obj\Debug\Poker.exe
+D:\cs2008\ch05\Poker\obj\Debug\Poker.pdb
+C:\cs2008\ch05\Poker\obj\Debug\Poker.exe
+C:\cs2008\ch05\Poker\obj\Debug\Poker.pdb
+C:\cs2008\ch05\Poker\bin\Debug\Poker.exe
+C:\cs2008\ch05\Poker\bin\Debug\Poker.pdb
+C:\cs2008\ch05\Poker\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch05\Poker\obj\Debug\Poker.Form1.resources
+C:\cs2008\ch05\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\cs2008\ch05\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache

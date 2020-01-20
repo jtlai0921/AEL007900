@@ -1,0 +1,16 @@
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\bin\Debug\Draw2.exe
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\bin\Debug\Draw2.pdb
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\obj\Debug\Draw2.Form1.resources
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\obj\Debug\Draw2.Properties.Resources.resources
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\obj\Debug\Draw2.csproj.GenerateResource.Cache
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\obj\Debug\Draw2.exe
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\Draw2\obj\Debug\Draw2.pdb
+C:\cs2008\ch13\Draw2\obj\Debug\Draw2.exe
+C:\cs2008\ch13\Draw2\obj\Debug\Draw2.pdb
+C:\cs2008\ch13\Draw2\bin\Debug\Draw2.exe
+C:\cs2008\ch13\Draw2\bin\Debug\Draw2.pdb
+C:\cs2008\ch13\Draw2\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch13\Draw2\obj\Debug\Draw2.Form1.resources
+C:\cs2008\ch13\Draw2\obj\Debug\Draw2.Properties.Resources.resources
+C:\cs2008\ch13\Draw2\obj\Debug\Draw2.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\cs2008\ch09\FirstClass\bin\Debug\FirstClass.exe
+C:\cs2008\ch09\FirstClass\bin\Debug\FirstClass.pdb
+C:\cs2008\ch09\FirstClass\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch09\FirstClass\obj\Debug\FirstClass.Form1.resources
+C:\cs2008\ch09\FirstClass\obj\Debug\FirstClass.Properties.Resources.resources
+C:\cs2008\ch09\FirstClass\obj\Debug\FirstClass.csproj.GenerateResource.Cache
+C:\cs2008\ch09\FirstClass\obj\Debug\FirstClass.exe
+C:\cs2008\ch09\FirstClass\obj\Debug\FirstClass.pdb

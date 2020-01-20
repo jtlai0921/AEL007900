@@ -1,0 +1,8 @@
+C:\cs2008\ch10\MouseDrag\bin\Debug\MouseDrag.exe
+C:\cs2008\ch10\MouseDrag\bin\Debug\MouseDrag.pdb
+C:\cs2008\ch10\MouseDrag\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch10\MouseDrag\obj\Debug\MouseDrag.Form1.resources
+C:\cs2008\ch10\MouseDrag\obj\Debug\MouseDrag.Properties.Resources.resources
+C:\cs2008\ch10\MouseDrag\obj\Debug\MouseDrag.csproj.GenerateResource.Cache
+C:\cs2008\ch10\MouseDrag\obj\Debug\MouseDrag.exe
+C:\cs2008\ch10\MouseDrag\obj\Debug\MouseDrag.pdb

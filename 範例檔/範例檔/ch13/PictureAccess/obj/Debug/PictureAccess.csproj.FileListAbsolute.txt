@@ -1,0 +1,8 @@
+C:\cs2008\ch13\PictureAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch13\PictureAccess\obj\Debug\PictureAccess.Form1.resources
+C:\cs2008\ch13\PictureAccess\obj\Debug\PictureAccess.Properties.Resources.resources
+C:\cs2008\ch13\PictureAccess\obj\Debug\PictureAccess.csproj.GenerateResource.Cache
+C:\cs2008\ch13\PictureAccess\bin\Debug\PictureAccess.exe
+C:\cs2008\ch13\PictureAccess\bin\Debug\PictureAccess.pdb
+C:\cs2008\ch13\PictureAccess\obj\Debug\PictureAccess.exe
+C:\cs2008\ch13\PictureAccess\obj\Debug\PictureAccess.pdb

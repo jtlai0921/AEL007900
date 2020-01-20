@@ -1,0 +1,8 @@
+C:\cs2008\ch06\quota\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch06\quota\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\cs2008\ch06\quota\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cs2008\ch06\quota\obj\Debug\quota.csproj.GenerateResource.Cache
+C:\cs2008\ch06\quota\bin\Debug\quota.exe
+C:\cs2008\ch06\quota\bin\Debug\quota.pdb
+C:\cs2008\ch06\quota\obj\Debug\quota.exe
+C:\cs2008\ch06\quota\obj\Debug\quota.pdb

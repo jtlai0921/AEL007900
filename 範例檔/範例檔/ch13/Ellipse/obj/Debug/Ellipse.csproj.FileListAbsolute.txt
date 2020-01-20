@@ -1,0 +1,8 @@
+C:\cs2008\ch13\Ellipse\bin\Debug\Ellipse.exe
+C:\cs2008\ch13\Ellipse\bin\Debug\Ellipse.pdb
+C:\cs2008\ch13\Ellipse\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch13\Ellipse\obj\Debug\Ellipse.Form1.resources
+C:\cs2008\ch13\Ellipse\obj\Debug\Ellipse.Properties.Resources.resources
+C:\cs2008\ch13\Ellipse\obj\Debug\Ellipse.csproj.GenerateResource.Cache
+C:\cs2008\ch13\Ellipse\obj\Debug\Ellipse.exe
+C:\cs2008\ch13\Ellipse\obj\Debug\Ellipse.pdb

@@ -1,0 +1,16 @@
+D:\cs2008\ch05\99product\bin\Debug\99product.exe
+D:\cs2008\ch05\99product\bin\Debug\99product.pdb
+D:\cs2008\ch05\99product\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch05\99product\obj\Debug\_99product.Form1.resources
+D:\cs2008\ch05\99product\obj\Debug\_99product.Properties.Resources.resources
+D:\cs2008\ch05\99product\obj\Debug\99product.csproj.GenerateResource.Cache
+D:\cs2008\ch05\99product\obj\Debug\99product.exe
+D:\cs2008\ch05\99product\obj\Debug\99product.pdb
+C:\cs2008\ch05\99product\obj\Debug\99product.exe
+C:\cs2008\ch05\99product\obj\Debug\99product.pdb
+C:\cs2008\ch05\99product\bin\Debug\99product.exe
+C:\cs2008\ch05\99product\bin\Debug\99product.pdb
+C:\cs2008\ch05\99product\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch05\99product\obj\Debug\_99product.Form1.resources
+C:\cs2008\ch05\99product\obj\Debug\_99product.Properties.Resources.resources
+C:\cs2008\ch05\99product\obj\Debug\99product.csproj.GenerateResource.Cache

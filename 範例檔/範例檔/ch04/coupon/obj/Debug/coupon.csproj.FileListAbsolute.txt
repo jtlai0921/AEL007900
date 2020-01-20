@@ -1,0 +1,16 @@
+D:\cs2008\ch04\coupon\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch04\coupon\obj\Debug\coupon.Form1.resources
+D:\cs2008\ch04\coupon\obj\Debug\coupon.Properties.Resources.resources
+D:\cs2008\ch04\coupon\obj\Debug\coupon.csproj.GenerateResource.Cache
+D:\cs2008\ch04\coupon\bin\Debug\coupon.exe
+D:\cs2008\ch04\coupon\bin\Debug\coupon.pdb
+D:\cs2008\ch04\coupon\obj\Debug\coupon.exe
+D:\cs2008\ch04\coupon\obj\Debug\coupon.pdb
+C:\cs2008\ch04\coupon\obj\Debug\coupon.exe
+C:\cs2008\ch04\coupon\obj\Debug\coupon.pdb
+C:\cs2008\ch04\coupon\bin\Debug\coupon.exe
+C:\cs2008\ch04\coupon\bin\Debug\coupon.pdb
+C:\cs2008\ch04\coupon\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\coupon\obj\Debug\coupon.Form1.resources
+C:\cs2008\ch04\coupon\obj\Debug\coupon.Properties.Resources.resources
+C:\cs2008\ch04\coupon\obj\Debug\coupon.csproj.GenerateResource.Cache

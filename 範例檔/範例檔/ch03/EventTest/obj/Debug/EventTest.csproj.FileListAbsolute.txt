@@ -1,0 +1,8 @@
+C:\cs2008\ch03\EventTest\bin\Debug\EventTest.exe
+C:\cs2008\ch03\EventTest\bin\Debug\EventTest.pdb
+C:\cs2008\ch03\EventTest\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch03\EventTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\cs2008\ch03\EventTest\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cs2008\ch03\EventTest\obj\Debug\EventTest.csproj.GenerateResource.Cache
+C:\cs2008\ch03\EventTest\obj\Debug\EventTest.exe
+C:\cs2008\ch03\EventTest\obj\Debug\EventTest.pdb

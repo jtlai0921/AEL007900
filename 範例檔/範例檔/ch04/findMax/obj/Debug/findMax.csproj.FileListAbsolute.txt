@@ -1,0 +1,8 @@
+C:\cs2008\ch04\findMax\bin\Debug\findMax.exe
+C:\cs2008\ch04\findMax\bin\Debug\findMax.pdb
+C:\cs2008\ch04\findMax\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\findMax\obj\Debug\findMax.Form1.resources
+C:\cs2008\ch04\findMax\obj\Debug\findMax.Properties.Resources.resources
+C:\cs2008\ch04\findMax\obj\Debug\findMax.csproj.GenerateResource.Cache
+C:\cs2008\ch04\findMax\obj\Debug\findMax.exe
+C:\cs2008\ch04\findMax\obj\Debug\findMax.pdb

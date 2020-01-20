@@ -1,0 +1,8 @@
+C:\cs2008\ch01\Show_Time\bin\Debug\Show_Time.exe
+C:\cs2008\ch01\Show_Time\bin\Debug\Show_Time.pdb
+C:\cs2008\ch01\Show_Time\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch01\Show_Time\obj\Debug\Show_Time.Form1.resources
+C:\cs2008\ch01\Show_Time\obj\Debug\Show_Time.Properties.Resources.resources
+C:\cs2008\ch01\Show_Time\obj\Debug\Show_Time.csproj.GenerateResource.Cache
+C:\cs2008\ch01\Show_Time\obj\Debug\Show_Time.exe
+C:\cs2008\ch01\Show_Time\obj\Debug\Show_Time.pdb

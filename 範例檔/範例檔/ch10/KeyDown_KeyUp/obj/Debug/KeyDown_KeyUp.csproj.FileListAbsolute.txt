@@ -1,0 +1,8 @@
+C:\cs2008\ch10\KeyDown_KeyUp\bin\Debug\KeyDown_KeyUp.exe
+C:\cs2008\ch10\KeyDown_KeyUp\bin\Debug\KeyDown_KeyUp.pdb
+C:\cs2008\ch10\KeyDown_KeyUp\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch10\KeyDown_KeyUp\obj\Debug\鍵盤事件測試.Form1.resources
+C:\cs2008\ch10\KeyDown_KeyUp\obj\Debug\鍵盤事件測試.Properties.Resources.resources
+C:\cs2008\ch10\KeyDown_KeyUp\obj\Debug\KeyDown_KeyUp.csproj.GenerateResource.Cache
+C:\cs2008\ch10\KeyDown_KeyUp\obj\Debug\KeyDown_KeyUp.exe
+C:\cs2008\ch10\KeyDown_KeyUp\obj\Debug\KeyDown_KeyUp.pdb

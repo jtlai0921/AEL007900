@@ -1,0 +1,8 @@
+C:\cs2008\ch13\Ploygon\bin\Debug\Ploygon.exe
+C:\cs2008\ch13\Ploygon\bin\Debug\Ploygon.pdb
+C:\cs2008\ch13\Ploygon\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch13\Ploygon\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\cs2008\ch13\Ploygon\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cs2008\ch13\Ploygon\obj\Debug\Ploygon.csproj.GenerateResource.Cache
+C:\cs2008\ch13\Ploygon\obj\Debug\Ploygon.exe
+C:\cs2008\ch13\Ploygon\obj\Debug\Ploygon.pdb

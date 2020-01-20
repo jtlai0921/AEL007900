@@ -1,0 +1,10 @@
+C:\cs2008\13\ARGB\bin\Debug\ARGB.exe
+C:\cs2008\13\ARGB\bin\Debug\ARGB.pdb
+C:\cs2008\13\ARGB\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\13\ARGB\obj\Debug\ARGB.Form1.resources
+C:\cs2008\13\ARGB\obj\Debug\ARGB.Properties.Resources.resources
+C:\cs2008\13\ARGB\obj\Debug\ARGB.csproj.GenerateResource.Cache
+C:\cs2008\13\ARGB\obj\Debug\ARGB.exe
+C:\cs2008\13\ARGB\obj\Debug\ARGB.pdb
+C:\cs2008\ch13\ARGB\obj\Debug\ARGB.exe
+C:\cs2008\ch13\ARGB\obj\Debug\ARGB.pdb

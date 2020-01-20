@@ -1,0 +1,8 @@
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\bin\Debug\sum.exe
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\bin\Debug\sum.pdb
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\obj\Debug\sum.Form1.resources
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\obj\Debug\sum.Properties.Resources.resources
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\obj\Debug\sum.csproj.GenerateResource.Cache
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\obj\Debug\sum.exe
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\sum\obj\Debug\sum.pdb

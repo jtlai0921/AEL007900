@@ -1,0 +1,8 @@
+C:\cs2008\ch15\記憶大考驗\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch15\記憶大考驗\obj\Debug\記憶大考驗.Form1.resources
+C:\cs2008\ch15\記憶大考驗\obj\Debug\記憶大考驗.Properties.Resources.resources
+C:\cs2008\ch15\記憶大考驗\obj\Debug\記憶大考驗.csproj.GenerateResource.Cache
+C:\cs2008\ch15\記憶大考驗\bin\Debug\記憶大考驗.exe
+C:\cs2008\ch15\記憶大考驗\bin\Debug\記憶大考驗.pdb
+C:\cs2008\ch15\記憶大考驗\obj\Debug\記憶大考驗.exe
+C:\cs2008\ch15\記憶大考驗\obj\Debug\記憶大考驗.pdb

@@ -1,0 +1,16 @@
+D:\cs2008\ch04\order\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch04\order\obj\Debug\order.Form1.resources
+D:\cs2008\ch04\order\obj\Debug\order.Properties.Resources.resources
+D:\cs2008\ch04\order\obj\Debug\order.csproj.GenerateResource.Cache
+D:\cs2008\ch04\order\bin\Debug\order.exe
+D:\cs2008\ch04\order\bin\Debug\order.pdb
+D:\cs2008\ch04\order\obj\Debug\order.exe
+D:\cs2008\ch04\order\obj\Debug\order.pdb
+C:\cs2008\ch04\order\obj\Debug\order.exe
+C:\cs2008\ch04\order\obj\Debug\order.pdb
+C:\cs2008\ch04\order\bin\Debug\order.exe
+C:\cs2008\ch04\order\bin\Debug\order.pdb
+C:\cs2008\ch04\order\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\order\obj\Debug\order.Form1.resources
+C:\cs2008\ch04\order\obj\Debug\order.Properties.Resources.resources
+C:\cs2008\ch04\order\obj\Debug\order.csproj.GenerateResource.Cache

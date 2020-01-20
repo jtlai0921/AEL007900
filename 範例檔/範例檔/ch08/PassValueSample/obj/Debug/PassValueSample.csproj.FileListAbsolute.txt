@@ -1,0 +1,8 @@
+C:\cs2008\ch08\PassValueSample\bin\Debug\PassValueSample.exe
+C:\cs2008\ch08\PassValueSample\bin\Debug\PassValueSample.pdb
+C:\cs2008\ch08\PassValueSample\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch08\PassValueSample\obj\Debug\PassValueSample.Form1.resources
+C:\cs2008\ch08\PassValueSample\obj\Debug\PassValueSample.Properties.Resources.resources
+C:\cs2008\ch08\PassValueSample\obj\Debug\PassValueSample.csproj.GenerateResource.Cache
+C:\cs2008\ch08\PassValueSample\obj\Debug\PassValueSample.exe
+C:\cs2008\ch08\PassValueSample\obj\Debug\PassValueSample.pdb

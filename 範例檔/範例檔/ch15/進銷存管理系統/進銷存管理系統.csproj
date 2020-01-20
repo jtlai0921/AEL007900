@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9F9087B4-42F3-4C59-BEBB-AA41AB7A03FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>進銷存管理系統</RootNamespace>
+    <AssemblyName>進銷存管理系統</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSetDB1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDB1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuy.Designer.cs">
+      <DependentUpon>frmBuy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuyRet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuyRet.Designer.cs">
+      <DependentUpon>frmBuyRet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuyRetSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuyRetSel.Designer.cs">
+      <DependentUpon>frmBuyRetSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuySel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuySel.Designer.cs">
+      <DependentUpon>frmBuySel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCust.Designer.cs">
+      <DependentUpon>frmCust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustSel.Designer.cs">
+      <DependentUpon>frmCustSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvent.Designer.cs">
+      <DependentUpon>frmInvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventSel.Designer.cs">
+      <DependentUpon>frmInventSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSale.Designer.cs">
+      <DependentUpon>frmSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaleRet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaleRet.Designer.cs">
+      <DependentUpon>frmSaleRet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaleRetSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaleRetSel.Designer.cs">
+      <DependentUpon>frmSaleRetSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaleSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaleSel.Designer.cs">
+      <DependentUpon>frmSaleSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendor.Designer.cs">
+      <DependentUpon>frmVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendorSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendorSel.Designer.cs">
+      <DependentUpon>frmVendorSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBuy.resx">
+      <DependentUpon>frmBuy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuyRet.resx">
+      <DependentUpon>frmBuyRet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuyRetSel.resx">
+      <DependentUpon>frmBuyRetSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuySel.resx">
+      <DependentUpon>frmBuySel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCust.resx">
+      <DependentUpon>frmCust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustSel.resx">
+      <DependentUpon>frmCustSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvent.resx">
+      <DependentUpon>frmInvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventSel.resx">
+      <DependentUpon>frmInventSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSale.resx">
+      <DependentUpon>frmSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaleRet.resx">
+      <DependentUpon>frmSaleRet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaleRetSel.resx">
+      <DependentUpon>frmSaleRetSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaleSel.resx">
+      <DependentUpon>frmSaleSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendor.resx">
+      <DependentUpon>frmVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendorSel.resx">
+      <DependentUpon>frmVendorSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DataSetDB1.xsc">
+      <DependentUpon>DataSetDB1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetDB1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDB1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetDB1.xss">
+      <DependentUpon>DataSetDB1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="db1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

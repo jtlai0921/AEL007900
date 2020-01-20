@@ -1,0 +1,8 @@
+C:\cs2008\ch10\MouseEvent\bin\Debug\MouseEvent.exe
+C:\cs2008\ch10\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\cs2008\ch10\MouseEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch10\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\cs2008\ch10\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\cs2008\ch10\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.Cache
+C:\cs2008\ch10\MouseEvent\obj\Debug\MouseEvent.exe
+C:\cs2008\ch10\MouseEvent\obj\Debug\MouseEvent.pdb

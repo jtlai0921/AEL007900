@@ -1,0 +1,8 @@
+C:\cs2008\ch02\constTest\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch02\constTest\obj\Debug\constTest.Form1.resources
+C:\cs2008\ch02\constTest\obj\Debug\constTest.Properties.Resources.resources
+C:\cs2008\ch02\constTest\obj\Debug\constTest.csproj.GenerateResource.Cache
+C:\cs2008\ch02\constTest\bin\Debug\constTest.exe
+C:\cs2008\ch02\constTest\bin\Debug\constTest.pdb
+C:\cs2008\ch02\constTest\obj\Debug\constTest.exe
+C:\cs2008\ch02\constTest\obj\Debug\constTest.pdb

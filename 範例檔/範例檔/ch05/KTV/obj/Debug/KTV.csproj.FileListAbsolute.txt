@@ -1,0 +1,16 @@
+D:\cs2008\ch05\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch05\KTV\obj\Debug\KTV.Form1.resources
+D:\cs2008\ch05\KTV\obj\Debug\KTV.Properties.Resources.resources
+D:\cs2008\ch05\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+D:\cs2008\ch05\KTV\bin\Debug\KTV.exe
+D:\cs2008\ch05\KTV\bin\Debug\KTV.pdb
+D:\cs2008\ch05\KTV\obj\Debug\KTV.exe
+D:\cs2008\ch05\KTV\obj\Debug\KTV.pdb
+C:\cs2008\ch05\KTV\obj\Debug\KTV.exe
+C:\cs2008\ch05\KTV\obj\Debug\KTV.pdb
+C:\cs2008\ch05\KTV\bin\Debug\KTV.exe
+C:\cs2008\ch05\KTV\bin\Debug\KTV.pdb
+C:\cs2008\ch05\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch05\KTV\obj\Debug\KTV.Form1.resources
+C:\cs2008\ch05\KTV\obj\Debug\KTV.Properties.Resources.resources
+C:\cs2008\ch05\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache

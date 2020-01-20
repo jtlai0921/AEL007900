@@ -1,0 +1,10 @@
+C:\cs2008\ch13\Rect.sln\bin\Debug\Rect.sln.exe
+C:\cs2008\ch13\Rect.sln\bin\Debug\Rect.sln.pdb
+C:\cs2008\ch13\Rect.sln\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch13\Rect.sln\obj\Debug\Rect.sln.Form1.resources
+C:\cs2008\ch13\Rect.sln\obj\Debug\Rect.sln.Properties.Resources.resources
+C:\cs2008\ch13\Rect.sln\obj\Debug\Rect.sln.csproj.GenerateResource.Cache
+C:\cs2008\ch13\Rect.sln\obj\Debug\Rect.sln.exe
+C:\cs2008\ch13\Rect.sln\obj\Debug\Rect.sln.pdb
+C:\cs2008\ch13\Rect\obj\Debug\Rect.sln.exe
+C:\cs2008\ch13\Rect\obj\Debug\Rect.sln.pdb

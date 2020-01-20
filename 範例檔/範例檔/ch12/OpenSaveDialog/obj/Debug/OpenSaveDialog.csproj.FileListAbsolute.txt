@@ -1,0 +1,8 @@
+C:\cs2008\ch12\OpenSaveDialog\bin\Debug\OpenSaveDialog.exe
+C:\cs2008\ch12\OpenSaveDialog\bin\Debug\OpenSaveDialog.pdb
+C:\cs2008\ch12\OpenSaveDialog\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch12\OpenSaveDialog\obj\Debug\OpenSaveDialog.Form1.resources
+C:\cs2008\ch12\OpenSaveDialog\obj\Debug\OpenSaveDialog.Properties.Resources.resources
+C:\cs2008\ch12\OpenSaveDialog\obj\Debug\OpenSaveDialog.csproj.GenerateResource.Cache
+C:\cs2008\ch12\OpenSaveDialog\obj\Debug\OpenSaveDialog.exe
+C:\cs2008\ch12\OpenSaveDialog\obj\Debug\OpenSaveDialog.pdb

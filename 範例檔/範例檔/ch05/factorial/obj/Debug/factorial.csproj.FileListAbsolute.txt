@@ -1,0 +1,16 @@
+D:\cs2008\ch05\factorial\bin\Debug\factorial.exe
+D:\cs2008\ch05\factorial\bin\Debug\factorial.pdb
+D:\cs2008\ch05\factorial\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch05\factorial\obj\Debug\factorial.Form1.resources
+D:\cs2008\ch05\factorial\obj\Debug\factorial.Properties.Resources.resources
+D:\cs2008\ch05\factorial\obj\Debug\factorial.csproj.GenerateResource.Cache
+D:\cs2008\ch05\factorial\obj\Debug\factorial.exe
+D:\cs2008\ch05\factorial\obj\Debug\factorial.pdb
+C:\cs2008\ch05\factorial\obj\Debug\factorial.exe
+C:\cs2008\ch05\factorial\obj\Debug\factorial.pdb
+C:\cs2008\ch05\factorial\bin\Debug\factorial.exe
+C:\cs2008\ch05\factorial\bin\Debug\factorial.pdb
+C:\cs2008\ch05\factorial\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch05\factorial\obj\Debug\factorial.Form1.resources
+C:\cs2008\ch05\factorial\obj\Debug\factorial.Properties.Resources.resources
+C:\cs2008\ch05\factorial\obj\Debug\factorial.csproj.GenerateResource.Cache

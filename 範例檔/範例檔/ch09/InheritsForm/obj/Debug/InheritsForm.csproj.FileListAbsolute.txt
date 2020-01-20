@@ -1,0 +1,5 @@
+C:\cs2008\ch09\InheritsForm\bin\Debug\InheritsForm.exe
+C:\cs2008\ch09\InheritsForm\bin\Debug\InheritsForm.pdb
+C:\cs2008\ch09\InheritsForm\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch09\InheritsForm\obj\Debug\InheritsForm.exe
+C:\cs2008\ch09\InheritsForm\obj\Debug\InheritsForm.pdb

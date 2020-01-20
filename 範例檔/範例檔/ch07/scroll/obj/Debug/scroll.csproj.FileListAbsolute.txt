@@ -1,0 +1,16 @@
+D:\cs2008\ch07\scroll\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch07\scroll\obj\Debug\scroll.Form1.resources
+D:\cs2008\ch07\scroll\obj\Debug\scroll.Properties.Resources.resources
+D:\cs2008\ch07\scroll\obj\Debug\scroll.csproj.GenerateResource.Cache
+D:\cs2008\ch07\scroll\bin\Debug\scroll.exe
+D:\cs2008\ch07\scroll\bin\Debug\scroll.pdb
+D:\cs2008\ch07\scroll\obj\Debug\scroll.exe
+D:\cs2008\ch07\scroll\obj\Debug\scroll.pdb
+C:\cs2008\ch07\scroll\obj\Debug\scroll.exe
+C:\cs2008\ch07\scroll\obj\Debug\scroll.pdb
+C:\cs2008\ch07\scroll\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch07\scroll\obj\Debug\scroll.Form1.resources
+C:\cs2008\ch07\scroll\obj\Debug\scroll.Properties.Resources.resources
+C:\cs2008\ch07\scroll\obj\Debug\scroll.csproj.GenerateResource.Cache
+C:\cs2008\ch07\scroll\bin\Debug\scroll.exe
+C:\cs2008\ch07\scroll\bin\Debug\scroll.pdb

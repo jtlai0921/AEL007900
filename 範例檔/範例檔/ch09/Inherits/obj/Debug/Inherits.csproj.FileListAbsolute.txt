@@ -1,0 +1,8 @@
+C:\cs2008\ch09\Inherits\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch09\Inherits\obj\Debug\Inherits.Form1.resources
+C:\cs2008\ch09\Inherits\obj\Debug\Inherits.Properties.Resources.resources
+C:\cs2008\ch09\Inherits\obj\Debug\Inherits.csproj.GenerateResource.Cache
+C:\cs2008\ch09\Inherits\bin\Debug\Inherits.exe
+C:\cs2008\ch09\Inherits\bin\Debug\Inherits.pdb
+C:\cs2008\ch09\Inherits\obj\Debug\Inherits.exe
+C:\cs2008\ch09\Inherits\obj\Debug\Inherits.pdb

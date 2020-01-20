@@ -1,0 +1,16 @@
+C:\cs2008\ch04\scoreAvg\bin\Debug\scoreAvg.exe
+C:\cs2008\ch04\scoreAvg\bin\Debug\scoreAvg.pdb
+C:\cs2008\ch04\scoreAvg\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\scoreAvg\obj\Debug\scoreAvg.Form1.resources
+C:\cs2008\ch04\scoreAvg\obj\Debug\scoreAvg.Properties.Resources.resources
+C:\cs2008\ch04\scoreAvg\obj\Debug\scoreAvg.csproj.GenerateResource.Cache
+C:\cs2008\ch04\scoreAvg\obj\Debug\scoreAvg.exe
+C:\cs2008\ch04\scoreAvg\obj\Debug\scoreAvg.pdb
+C:\cs2008\ch06\scoreAvg\obj\Debug\scoreAvg.exe
+C:\cs2008\ch06\scoreAvg\obj\Debug\scoreAvg.pdb
+C:\cs2008\ch06\scoreAvg\bin\Debug\scoreAvg.exe
+C:\cs2008\ch06\scoreAvg\bin\Debug\scoreAvg.pdb
+C:\cs2008\ch06\scoreAvg\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch06\scoreAvg\obj\Debug\scoreAvg.Form1.resources
+C:\cs2008\ch06\scoreAvg\obj\Debug\scoreAvg.Properties.Resources.resources
+C:\cs2008\ch06\scoreAvg\obj\Debug\scoreAvg.csproj.GenerateResource.Cache

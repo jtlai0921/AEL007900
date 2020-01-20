@@ -1,0 +1,8 @@
+C:\cs2008\ch08\sum1\bin\Debug\sum1.exe
+C:\cs2008\ch08\sum1\bin\Debug\sum1.pdb
+C:\cs2008\ch08\sum1\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch08\sum1\obj\Debug\sum.Form1.resources
+C:\cs2008\ch08\sum1\obj\Debug\sum.Properties.Resources.resources
+C:\cs2008\ch08\sum1\obj\Debug\sum1.csproj.GenerateResource.Cache
+C:\cs2008\ch08\sum1\obj\Debug\sum1.exe
+C:\cs2008\ch08\sum1\obj\Debug\sum1.pdb

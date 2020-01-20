@@ -1,0 +1,16 @@
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\bin\Debug\trySample.exe
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\bin\Debug\trySample.pdb
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\obj\Debug\trySample.Form1.resources
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\obj\Debug\trySample.Properties.Resources.resources
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\obj\Debug\trySample.csproj.GenerateResource.Cache
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\obj\Debug\trySample.exe
+C:\Documents and Settings\蔡文龍\Local Settings\Application Data\Temporary Projects\trySample\obj\Debug\trySample.pdb
+C:\cs2008\ch03\trySample\obj\Debug\trySample.exe
+C:\cs2008\ch03\trySample\obj\Debug\trySample.pdb
+C:\cs2008\ch03\trySample\bin\Debug\trySample.exe
+C:\cs2008\ch03\trySample\bin\Debug\trySample.pdb
+C:\cs2008\ch03\trySample\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch03\trySample\obj\Debug\trySample.Form1.resources
+C:\cs2008\ch03\trySample\obj\Debug\trySample.Properties.Resources.resources
+C:\cs2008\ch03\trySample\obj\Debug\trySample.csproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\bin\Debug\changeColor.exe
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\bin\Debug\changeColor.pdb
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\obj\Debug\changeColor.Form1.resources
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\obj\Debug\changeColor.Properties.Resources.resources
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\obj\Debug\changeColor.csproj.GenerateResource.Cache
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\obj\Debug\changeColor.exe
+C:\Documents and Settings\Wu\Local Settings\Application Data\Temporary Projects\changeColor\obj\Debug\changeColor.pdb
+D:\cs2008\ch04\changeColor\obj\Debug\changeColor.exe
+D:\cs2008\ch04\changeColor\obj\Debug\changeColor.pdb
+D:\cs2008\ch04\changeColor\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch04\changeColor\obj\Debug\changeColor.Form1.resources
+D:\cs2008\ch04\changeColor\obj\Debug\changeColor.Properties.Resources.resources
+D:\cs2008\ch04\changeColor\obj\Debug\changeColor.csproj.GenerateResource.Cache
+D:\cs2008\ch04\changeColor\bin\Debug\changeColor.exe
+D:\cs2008\ch04\changeColor\bin\Debug\changeColor.pdb
+C:\cs2008\ch04\changeColor\obj\Debug\changeColor.exe
+C:\cs2008\ch04\changeColor\obj\Debug\changeColor.pdb
+C:\cs2008\ch04\changeColor\bin\Debug\changeColor.exe
+C:\cs2008\ch04\changeColor\bin\Debug\changeColor.pdb
+C:\cs2008\ch04\changeColor\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\changeColor\obj\Debug\changeColor.Form1.resources
+C:\cs2008\ch04\changeColor\obj\Debug\changeColor.Properties.Resources.resources
+C:\cs2008\ch04\changeColor\obj\Debug\changeColor.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\cs2008\ch08\PassRefSample\bin\Debug\PassRefSample.exe
+C:\cs2008\ch08\PassRefSample\bin\Debug\PassRefSample.pdb
+C:\cs2008\ch08\PassRefSample\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch08\PassRefSample\obj\Debug\PassRefSample.Form1.resources
+C:\cs2008\ch08\PassRefSample\obj\Debug\PassRefSample.Properties.Resources.resources
+C:\cs2008\ch08\PassRefSample\obj\Debug\PassRefSample.csproj.GenerateResource.Cache
+C:\cs2008\ch08\PassRefSample\obj\Debug\PassRefSample.exe
+C:\cs2008\ch08\PassRefSample\obj\Debug\PassRefSample.pdb

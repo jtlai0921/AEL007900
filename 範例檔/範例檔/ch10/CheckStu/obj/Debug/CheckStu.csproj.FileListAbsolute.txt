@@ -1,0 +1,8 @@
+C:\cs2008\ch10\CheckStu\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch10\CheckStu\obj\Debug\CheckStu.Form1.resources
+C:\cs2008\ch10\CheckStu\obj\Debug\CheckStu.Properties.Resources.resources
+C:\cs2008\ch10\CheckStu\obj\Debug\CheckStu.csproj.GenerateResource.Cache
+C:\cs2008\ch10\CheckStu\bin\Debug\CheckStu.exe
+C:\cs2008\ch10\CheckStu\bin\Debug\CheckStu.pdb
+C:\cs2008\ch10\CheckStu\obj\Debug\CheckStu.exe
+C:\cs2008\ch10\CheckStu\obj\Debug\CheckStu.pdb

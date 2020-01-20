@@ -1,0 +1,16 @@
+D:\cs2008\ch04\tax\bin\Debug\tax.exe
+D:\cs2008\ch04\tax\bin\Debug\tax.pdb
+D:\cs2008\ch04\tax\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch04\tax\obj\Debug\tax.Form1.resources
+D:\cs2008\ch04\tax\obj\Debug\tax.Properties.Resources.resources
+D:\cs2008\ch04\tax\obj\Debug\tax.csproj.GenerateResource.Cache
+D:\cs2008\ch04\tax\obj\Debug\tax.exe
+D:\cs2008\ch04\tax\obj\Debug\tax.pdb
+C:\cs2008\ch04\tax\obj\Debug\tax.exe
+C:\cs2008\ch04\tax\obj\Debug\tax.pdb
+C:\cs2008\ch04\tax\bin\Debug\tax.exe
+C:\cs2008\ch04\tax\bin\Debug\tax.pdb
+C:\cs2008\ch04\tax\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\tax\obj\Debug\tax.Form1.resources
+C:\cs2008\ch04\tax\obj\Debug\tax.Properties.Resources.resources
+C:\cs2008\ch04\tax\obj\Debug\tax.csproj.GenerateResource.Cache

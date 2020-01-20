@@ -1,0 +1,8 @@
+C:\cs2008\ch11\MenuStrip1\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch11\MenuStrip1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\cs2008\ch11\MenuStrip1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cs2008\ch11\MenuStrip1\obj\Debug\MenuStrip1.csproj.GenerateResource.Cache
+C:\cs2008\ch11\MenuStrip1\bin\Debug\MenuStrip1.exe
+C:\cs2008\ch11\MenuStrip1\bin\Debug\MenuStrip1.pdb
+C:\cs2008\ch11\MenuStrip1\obj\Debug\MenuStrip1.exe
+C:\cs2008\ch11\MenuStrip1\obj\Debug\MenuStrip1.pdb

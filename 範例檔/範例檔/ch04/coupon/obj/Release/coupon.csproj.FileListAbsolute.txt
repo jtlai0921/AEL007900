@@ -1,0 +1,8 @@
+C:\cs2008\ch04\coupon\bin\Release\coupon.exe
+C:\cs2008\ch04\coupon\bin\Release\coupon.pdb
+C:\cs2008\ch04\coupon\obj\Release\ResolveAssemblyReference.cache
+C:\cs2008\ch04\coupon\obj\Release\coupon.Form1.resources
+C:\cs2008\ch04\coupon\obj\Release\coupon.Properties.Resources.resources
+C:\cs2008\ch04\coupon\obj\Release\coupon.csproj.GenerateResource.Cache
+C:\cs2008\ch04\coupon\obj\Release\coupon.exe
+C:\cs2008\ch04\coupon\obj\Release\coupon.pdb

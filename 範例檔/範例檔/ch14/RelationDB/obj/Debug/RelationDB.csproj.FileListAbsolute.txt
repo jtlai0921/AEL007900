@@ -1,0 +1,10 @@
+C:\cs2008\ch14\RelationDB\bin\Debug\db1.mdb
+C:\cs2008\ch14\RelationDB\bin\Debug\RelationDB.exe.config
+C:\cs2008\ch14\RelationDB\bin\Debug\RelationDB.exe
+C:\cs2008\ch14\RelationDB\bin\Debug\RelationDB.pdb
+C:\cs2008\ch14\RelationDB\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch14\RelationDB\obj\Debug\RelationDB.Form1.resources
+C:\cs2008\ch14\RelationDB\obj\Debug\RelationDB.Properties.Resources.resources
+C:\cs2008\ch14\RelationDB\obj\Debug\RelationDB.csproj.GenerateResource.Cache
+C:\cs2008\ch14\RelationDB\obj\Debug\RelationDB.exe
+C:\cs2008\ch14\RelationDB\obj\Debug\RelationDB.pdb

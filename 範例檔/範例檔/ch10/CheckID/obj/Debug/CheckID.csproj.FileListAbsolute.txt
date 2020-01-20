@@ -1,0 +1,8 @@
+C:\cs2008\ch10\CheckID\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch10\CheckID\obj\Debug\CheckID.Form1.resources
+C:\cs2008\ch10\CheckID\obj\Debug\CheckID.Properties.Resources.resources
+C:\cs2008\ch10\CheckID\obj\Debug\CheckID.csproj.GenerateResource.Cache
+C:\cs2008\ch10\CheckID\bin\Debug\CheckID.exe
+C:\cs2008\ch10\CheckID\bin\Debug\CheckID.pdb
+C:\cs2008\ch10\CheckID\obj\Debug\CheckID.exe
+C:\cs2008\ch10\CheckID\obj\Debug\CheckID.pdb

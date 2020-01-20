@@ -1,0 +1,10 @@
+C:\cs2008\ch14\FirstDB\bin\Debug\db1.mdb
+C:\cs2008\ch14\FirstDB\bin\Debug\FirstDB.exe.config
+C:\cs2008\ch14\FirstDB\bin\Debug\FirstDB.exe
+C:\cs2008\ch14\FirstDB\bin\Debug\FirstDB.pdb
+C:\cs2008\ch14\FirstDB\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch14\FirstDB\obj\Debug\FirstDB.Form1.resources
+C:\cs2008\ch14\FirstDB\obj\Debug\FirstDB.Properties.Resources.resources
+C:\cs2008\ch14\FirstDB\obj\Debug\FirstDB.csproj.GenerateResource.Cache
+C:\cs2008\ch14\FirstDB\obj\Debug\FirstDB.exe
+C:\cs2008\ch14\FirstDB\obj\Debug\FirstDB.pdb

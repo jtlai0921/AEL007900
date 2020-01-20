@@ -1,0 +1,8 @@
+C:\cs2008\ch08\EventHandle\bin\Debug\EventHandle.exe
+C:\cs2008\ch08\EventHandle\bin\Debug\EventHandle.pdb
+C:\cs2008\ch08\EventHandle\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch08\EventHandle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\cs2008\ch08\EventHandle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cs2008\ch08\EventHandle\obj\Debug\EventHandle.csproj.GenerateResource.Cache
+C:\cs2008\ch08\EventHandle\obj\Debug\EventHandle.exe
+C:\cs2008\ch08\EventHandle\obj\Debug\EventHandle.pdb

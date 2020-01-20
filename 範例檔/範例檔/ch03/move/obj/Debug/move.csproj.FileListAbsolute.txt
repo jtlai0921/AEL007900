@@ -1,0 +1,8 @@
+C:\cs2008\ch03\move\bin\Debug\move.exe
+C:\cs2008\ch03\move\bin\Debug\move.pdb
+C:\cs2008\ch03\move\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch03\move\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\cs2008\ch03\move\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cs2008\ch03\move\obj\Debug\move.csproj.GenerateResource.Cache
+C:\cs2008\ch03\move\obj\Debug\move.exe
+C:\cs2008\ch03\move\obj\Debug\move.pdb

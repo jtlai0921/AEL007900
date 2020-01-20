@@ -1,0 +1,16 @@
+D:\cs2008\ch05\runner\bin\Debug\runner.exe
+D:\cs2008\ch05\runner\bin\Debug\runner.pdb
+D:\cs2008\ch05\runner\obj\Debug\ResolveAssemblyReference.cache
+D:\cs2008\ch05\runner\obj\Debug\runner.Form1.resources
+D:\cs2008\ch05\runner\obj\Debug\runner.Properties.Resources.resources
+D:\cs2008\ch05\runner\obj\Debug\runner.csproj.GenerateResource.Cache
+D:\cs2008\ch05\runner\obj\Debug\runner.exe
+D:\cs2008\ch05\runner\obj\Debug\runner.pdb
+C:\cs2008\ch05\runner\obj\Debug\runner.exe
+C:\cs2008\ch05\runner\obj\Debug\runner.pdb
+C:\cs2008\ch05\runner\bin\Debug\runner.exe
+C:\cs2008\ch05\runner\bin\Debug\runner.pdb
+C:\cs2008\ch05\runner\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch05\runner\obj\Debug\runner.Form1.resources
+C:\cs2008\ch05\runner\obj\Debug\runner.Properties.Resources.resources
+C:\cs2008\ch05\runner\obj\Debug\runner.csproj.GenerateResource.Cache

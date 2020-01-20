@@ -1,0 +1,8 @@
+C:\cs2008\ch13\ListenTest\bin\Debug\ListenTest.exe
+C:\cs2008\ch13\ListenTest\bin\Debug\ListenTest.pdb
+C:\cs2008\ch13\ListenTest\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch13\ListenTest\obj\Debug\ListTest.Form1.resources
+C:\cs2008\ch13\ListenTest\obj\Debug\ListTest.Properties.Resources.resources
+C:\cs2008\ch13\ListenTest\obj\Debug\ListenTest.csproj.GenerateResource.Cache
+C:\cs2008\ch13\ListenTest\obj\Debug\ListenTest.exe
+C:\cs2008\ch13\ListenTest\obj\Debug\ListenTest.pdb

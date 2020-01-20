@@ -1,0 +1,8 @@
+C:\cs2008\ch02\loan\bin\Debug\loan.exe
+C:\cs2008\ch02\loan\bin\Debug\loan.pdb
+C:\cs2008\ch02\loan\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch02\loan\obj\Debug\loan.Form1.resources
+C:\cs2008\ch02\loan\obj\Debug\loan.Properties.Resources.resources
+C:\cs2008\ch02\loan\obj\Debug\loan.csproj.GenerateResource.Cache
+C:\cs2008\ch02\loan\obj\Debug\loan.exe
+C:\cs2008\ch02\loan\obj\Debug\loan.pdb

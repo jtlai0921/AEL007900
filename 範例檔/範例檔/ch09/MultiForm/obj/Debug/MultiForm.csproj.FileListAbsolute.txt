@@ -1,0 +1,9 @@
+C:\cs2008\ch09\MultiForm\bin\Debug\MultiForm.exe
+C:\cs2008\ch09\MultiForm\bin\Debug\MultiForm.pdb
+C:\cs2008\ch09\MultiForm\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch09\MultiForm\obj\Debug\MultiForm.frmBuy.resources
+C:\cs2008\ch09\MultiForm\obj\Debug\MultiForm.frmMenu.resources
+C:\cs2008\ch09\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+C:\cs2008\ch09\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.Cache
+C:\cs2008\ch09\MultiForm\obj\Debug\MultiForm.exe
+C:\cs2008\ch09\MultiForm\obj\Debug\MultiForm.pdb

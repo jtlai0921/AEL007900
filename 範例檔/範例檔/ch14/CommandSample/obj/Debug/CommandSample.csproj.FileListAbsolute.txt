@@ -1,0 +1,10 @@
+C:\cs2008\ch14\CommandSample\bin\Debug\db1.mdb
+C:\cs2008\ch14\CommandSample\bin\Debug\CommandSample.exe.config
+C:\cs2008\ch14\CommandSample\bin\Debug\CommandSample.exe
+C:\cs2008\ch14\CommandSample\bin\Debug\CommandSample.pdb
+C:\cs2008\ch14\CommandSample\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch14\CommandSample\obj\Debug\CommandSample.Form1.resources
+C:\cs2008\ch14\CommandSample\obj\Debug\CommandSample.Properties.Resources.resources
+C:\cs2008\ch14\CommandSample\obj\Debug\CommandSample.csproj.GenerateResource.Cache
+C:\cs2008\ch14\CommandSample\obj\Debug\CommandSample.exe
+C:\cs2008\ch14\CommandSample\obj\Debug\CommandSample.pdb

@@ -1,0 +1,8 @@
+C:\cs2008\ch04\switch1\bin\Debug\switch1.exe
+C:\cs2008\ch04\switch1\bin\Debug\switch1.pdb
+C:\cs2008\ch04\switch1\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch04\switch1\obj\Debug\switch1.Form1.resources
+C:\cs2008\ch04\switch1\obj\Debug\switch1.Properties.Resources.resources
+C:\cs2008\ch04\switch1\obj\Debug\switch1.csproj.GenerateResource.Cache
+C:\cs2008\ch04\switch1\obj\Debug\switch1.exe
+C:\cs2008\ch04\switch1\obj\Debug\switch1.pdb

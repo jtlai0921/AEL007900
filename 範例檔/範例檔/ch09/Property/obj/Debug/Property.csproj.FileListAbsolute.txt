@@ -1,0 +1,8 @@
+C:\cs2008\ch09\Property\bin\Debug\Property.exe
+C:\cs2008\ch09\Property\bin\Debug\Property.pdb
+C:\cs2008\ch09\Property\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch09\Property\obj\Debug\Property.Form1.resources
+C:\cs2008\ch09\Property\obj\Debug\Property.Properties.Resources.resources
+C:\cs2008\ch09\Property\obj\Debug\Property.csproj.GenerateResource.Cache
+C:\cs2008\ch09\Property\obj\Debug\Property.exe
+C:\cs2008\ch09\Property\obj\Debug\Property.pdb
